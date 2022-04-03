@@ -1,0 +1,47 @@
+body{
+
+    background-image: url("backround.png");
+    color:pink;
+
+}
+
+.header_div{
+    color: rgb(248, 168, 115);
+    background-color: rgba(228, 54, 23, 0.89);
+    
+}
+
+.header_div p{
+    font-family: 'Caramel', cursive;
+    font-size: 20px;
+    letter-spacing: 2px;
+    font-weight: bolder;
+    color: maroon;
+}
+
+.main_div button{
+
+    font-family: 'Anton', sans-serif;
+font-family: 'Caramel', cursive;
+margin-top: 60px;
+width: 160px;
+font-weight: bold;
+letter-spacing: 2px;
+font-size: 30px;
+    
+
+}
+
+.copy_right_footer{
+    position:fixed;
+    color: rgb(250, 246, 247);
+    bottom: 0;
+    width:100%;
+    font-size: 9px;
+    background-color: rgba(231, 95, 129, 0.555);
+    line-height: 3;
+    text-align: justify;
+    text-shadow: 12px 5px 12px rgb(241, 245, 11);
+    
+
+}
